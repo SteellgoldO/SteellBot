@@ -1,0 +1,2 @@
+# SteellBot
+Bot a Steellgold
